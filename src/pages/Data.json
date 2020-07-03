@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "brandName": "Milkfood",
+        "productName": "Milkfood Rich Desi Danedar Ghee (Carton)",
+        "quantity": "1 L",
+        "price":408,
+        "mrp":498,
+        "image":"../images/milkfood.jpg",
+        "offer": "18% OFF"
+    },
+    {
+        "id": 2,
+        "brandName": "Grofers Mother's Choice",
+        "productName": "Grofers Mother's Choice Desi Ghee",
+        "quantity": "1 L",
+        "price":414,
+        "mrp":450,
+        "image":"../images/grb.jpg",
+        "offer": "8% OFF"
+    },
+    {
+        "id": 3,
+        "brandName": "Amul",
+        "productName": "Amul Pure Ghee (Carton)",
+        "quantity": "1 L",
+        "price":439,
+        "mrp":460,
+        "image":"../images/amul.jpg",
+        "offer": "8% OFF"
+    },
+    {
+        "id": 4,
+        "brandName": "Patanjali",
+        "productName": "Patanjali Ghee Choice",
+        "quantity": "1 L",
+        "price":414,
+        "mrp":450,
+        "image":"../images/patanjali.jpg",
+        "offer": "8% OFF"
+    },
+    {
+      "id": 5,
+      "brandName": "Nadini",
+      "productName": "Nandini Rich Desi Danedar Ghee (Carton)",
+      "quantity": "1 L",
+      "price":425,
+      "mrp":500,
+      "image":"../images/milkfood.jpg",
+      "offer": "15% OFF"
+    },
+    {
+      "id": 6,
+      "brandName": "GRB",
+      "productName": "GRB Ghee",
+      "quantity": "1 L",
+      "price":314,
+      "mrp":400,
+      "image":"../images/grb.jpg",
+      "offer": "8% OFF"
+    },
+    {
+      "id": 7,
+      "brandName": "Amul ice cream",
+      "productName": "Amul Ice Cream (Carton)",
+      "quantity": "1 L",
+      "price":439,
+      "mrp":460,
+      "image":"../images/amul.jpg",
+      "offer": "8% OFF"
+    },
+    {
+      "id": 8,
+      "brandName": "Patanjali",
+      "productName": "Patanjali Alovera Choice",
+      "quantity": "1 L",
+      "price":414,
+      "mrp":450,
+      "image":"../images/patanjali.jpg",
+      "offer": "8% OFF"
+    },
+    {
+      "id": 9,
+      "brandName": "Garnier",
+      "productName": "Garnier (Carton)",
+      "quantity": "1 L",
+      "price":439,
+      "mrp":460,
+      "image":"../images/amul.jpg",
+      "offer": "8% OFF"
+    },
+    {
+      "id": 10,
+      "brandName": "Natural's",
+      "productName": "Natural's Alovera Choice",
+      "quantity": "1 L",
+      "price":414,
+      "mrp":450,
+      "image":"../images/patanjali.jpg",
+      "offer": "8% OFF"
+    }
+
+]

@@ -1,0 +1,95 @@
+body{
+  font-family: sans-serif;
+  align-items: center;
+}
+h2{
+  color:black;
+  font-weight: 600;
+}
+h5{
+  /* margin: 50px; */
+  margin-left: 80px;
+}
+.title{
+  text-align: center;
+}
+.each{
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    width: 70%;
+    background-color: #f5e9f5;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 4px;
+  
+}
+.one img{
+  margin: 20px;
+  width: 100%;
+}
+
+.two{
+  margin: 50px;
+  display: inline;
+}
+.brand-name{
+  color: #228b22;
+}
+.cart-button{
+  background-color: limegreen;
+  border-color: limegreen ;
+  padding:10px 20px;
+  border-radius: 10px;
+  color: black;
+  margin: 20px;
+  font-weight: bolder;
+  border-color: none;
+  box-shadow: none;
+}
+.value{
+  display: flex;
+}
+.length{
+  margin-top: 36px;
+}
+.minus {
+  margin: 30px;
+  background-color: limegreen;
+  border-color: limegreen ;
+  padding: 8px 12px;
+  border-radius: 50px;
+  color: #fff;
+  font-weight: bolder;
+  border-color: none;
+}
+
+.plus{
+  margin: 30px;
+  background-color: limegreen;
+  border-color: limegreen ;
+  padding: 8px 12px;
+  border-radius: 50px;
+  color: #fff;
+  font-weight: bolder;
+  border-color: none;
+}
+.navbar{
+  overflow: hidden;
+  background-color: coral;
+  position: fixed;
+  margin-left: 120px;
+  align-items: center;
+  bottom: 0;
+  width: 80%;
+  padding: 5px;  
+}
+.left{
+  float: left;
+  margin-left: 30px;
+}
+.bottom{
+  float: right;
+  margin-top: 22px;
+  margin-right: 30px;
+}
